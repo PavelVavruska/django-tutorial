@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'nas0w%$£^gnj%()£dskd54681asd"%%£^sd45621xc879wettf'
+SECRET_KEY = 'nas0w%==^gn==1()dskd54681asd=%%==sd45621xc879wettf'
 
 
 # List of callables that know how to import templates from various sources.
